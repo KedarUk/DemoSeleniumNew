@@ -1,0 +1,21 @@
+2023-10-20 14:54:00,537  INFO [main] UT:12 - URL opened
+ 2023-10-20 14:54:00,741  INFO [main] UT:17 - Entered Username
+ 2023-10-20 14:54:00,828  INFO [main] UT:20 - Entered Password
+ 2023-10-20 14:54:00,891  INFO [main] UT:23 - Clicked the login button
+ 2023-10-20 14:54:56,559  INFO [main] UT:12 - URL opened
+ 2023-10-20 14:54:59,074  INFO [main] UT:17 - Entered Username
+ 2023-10-20 14:54:59,160  INFO [main] UT:20 - Entered Password
+ 2023-10-20 14:54:59,220  INFO [main] UT:23 - Clicked the login button
+ 2023-10-20 14:55:48,750  INFO [main] UT:12 - URL opened
+ 2023-10-20 14:55:51,534  INFO [main] UT:17 - Entered Username
+ 2023-10-20 14:55:51,628  INFO [main] UT:20 - Entered Password
+ 2023-10-20 14:55:51,691  INFO [main] UT:23 - Login Successfully
+ 2023-10-20 14:56:51,850  INFO [main] UT:12 - URL opened
+ 2023-10-20 14:56:56,952  INFO [main] UT:18 - Entered Username
+ 2023-10-20 14:57:02,042  INFO [main] UT:22 - Entered Password
+ 2023-10-20 14:57:07,105  INFO [main] UT:26 - Login Successfully
+ 2023-10-20 14:57:39,352  INFO [main] UT:12 - URL opened
+ 2023-10-20 14:57:44,458  INFO [main] UT:18 - Entered Username
+ 2023-10-20 14:57:49,550  INFO [main] UT:22 - Entered Password
+ 2023-10-20 14:57:54,613  INFO [main] UT:26 - Login Successfully
+ 
